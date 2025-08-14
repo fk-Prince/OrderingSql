@@ -29,15 +29,17 @@ updateingredients						DONE
 
 
 
--- CASHIER UI (5 navigation button)
+-- CASHIER UI (6 navigation button)
 cashier - (payment) -> (view order/s, discount??)
 ingredient - (view/create/update-stock ingredient)
 product - (view/create/update-stock product)
 menu	- (view/create menu)
 inventory - (date range from/to) (productid or ingredientid)
+invoice - (date range from/to)
 
 -- KIOSK (3 navigation button)
 menu - (categories) -> (menu's)
 combo - display
 products - display
+
 
