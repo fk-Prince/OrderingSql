@@ -1,0 +1,35 @@
+-- MONITORING
+sales - month / day / year                              	DONE
+inventory - month / year  (PER INGREDIENTS AND Product)		DONE	           
+
+
+--FEATURES
+coupons 							DONE
+card / membership ???						XXXX
+
+
+--CREATE
+newproduct							DONE
+newingredient							DONE
+newcombo							DONE
+addcombo(item)							DONE
+new order (kiosk)						DONE
+confirming order (cashier)					DONE
+
+--RETRIEVE
+invoice								DONE
+menu								DONE
+combo								DONE
+product								DONE
+
+--UPDATE
+updateproduct							DONE
+updateingredients						DONE
+
+
+
+
+
+
+
+invid ordid discount paymentmethod subtotal total 
